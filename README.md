@@ -2,7 +2,7 @@
 
 This is a business card application that has my name and contact details.
 
-##FlutterBrew
+#FlutterBrew
 
 ## Components used in this app
 
